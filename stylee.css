@@ -11,10 +11,7 @@ body {
     display: block;
     width: 100%;
 }
-@media (min-width: 1650px)
-.container {
-    max-width: 1600px;
-}
+
 .wrapp-navbar {
     position: fixed;
     top: 0;
